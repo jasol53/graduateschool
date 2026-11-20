@@ -1,0 +1,2 @@
+[functions.analyze]
+verify_jwt = false # 함수 내부에서 getUser(access_token)으로 직접 인증을 검사합니다.
